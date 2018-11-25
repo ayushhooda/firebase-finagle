@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Desktop/firebase-demo/target/scala-2.12/firebase-demo_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Application.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/Application.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/db[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Application$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/Application$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	serviceAccountCredentials.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/serviceAccountCredentials.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	db/Firebase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/db/Firebase$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	db/Firebase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/db/Firebase.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/User$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/User$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/UserBean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/UserBean.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/FirebaseException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/FirebaseException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/FirebaseException$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/FirebaseException$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/UserNotFoundException$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/UserNotFoundException$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/User$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Application$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/Application$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	service/UserNotFoundException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Desktop/firebase-demo/target/scala-2.12/classes/service/UserNotFoundException.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
